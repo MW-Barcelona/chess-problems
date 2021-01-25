@@ -1,0 +1,31 @@
+Lohinsky, 1930
+1. Qf2!
+
+A:
+  1...Bd4
+  2. Qxe2++
+  END
+
+B: 
+  1...Ned4
+  2. Qa2++
+  END
+
+C:
+  1...Nfd4
+  2. Qf6++
+  END
+
+D:
+  1...d4
+  2. Bc4++
+  END
+
+E:
+  1...Rd4
+  2. Rh6++
+  END
+
+else:
+  2. Qxa7++
+  END

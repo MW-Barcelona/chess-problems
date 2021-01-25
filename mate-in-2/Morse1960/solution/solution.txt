@@ -1,0 +1,58 @@
+Morse, 1960
+1. Rd1!
+
+N1: 
+  1...Nxd1
+  2. Qf1++
+  END
+
+N2:
+  1... Nd3
+  2. Qxd3++
+  END
+
+R1: 
+  1...Rxh5
+  2. Rd4++
+  END
+
+R2:
+  1...Rd4
+  2. Rxd4++
+  END
+
+R3:
+  1... Re4 | Rf4 | Rg4
+  2. Qxe4++ | Qxf4++ | Qxg4++
+  END
+
+B1:
+  1...Bf7 | Be6 | Be5
+  2. Qxf7++ | Qxe6++ | Qxe5++
+  END
+
+B2:
+  1...Bc7
+  2. Rxh4++
+  END
+
+B3:
+  1...Be7 | Bf6 | Bg5
+  2. Qc8++
+  END
+
+P1:
+  1...c2
+  2. Qxc2++
+  END
+
+P2:
+  1...b5
+  2. Qc5++
+  END
+
+P3: 
+  1...a5
+  2. Qb5++ 
+  END
+

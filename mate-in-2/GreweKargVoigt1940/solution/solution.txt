@@ -1,0 +1,22 @@
+Grewe, Karg, and Voigt, 1940
+1. Qe8!
+
+A:
+  1...Kf6
+  2. Qe7++
+  END
+
+B:
+  1...Kh4
+  2. Qh5++
+  END
+
+C:
+  1...Kf4
+  2. Qe3++
+  END
+
+D:
+  1...Kh6
+  2. Qg6++
+  END
