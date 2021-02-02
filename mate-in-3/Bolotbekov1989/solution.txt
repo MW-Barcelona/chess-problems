@@ -1,0 +1,43 @@
+Bolotbekov, 1989
+1. Be1!
+
+A:
+  1...Nf5
+  2. Nf4 
+    a:
+      2...Bc3+
+      3. Bxc3++
+      END
+    b:
+      2...(any)
+      3. Nd3++
+      END
+
+B: 
+  1...Ne6
+  2. Ne3
+    a:
+      2...Bc3+
+      3. Bxc3++
+      END
+    b:
+      2...(any)
+      3. Nc4++
+      END
+
+C: 
+  1...Ne8
+  2. Nc3
+    a: 
+      2... Bxc3+
+      3. Bxc3++
+      END
+    b: 
+      2...(any)
+      3. Na4++
+      END
+  
+else: 
+  1... (any)
+  2. Bc3++
+  END
