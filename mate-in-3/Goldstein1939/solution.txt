@@ -1,0 +1,31 @@
+Goldstein, 1939
+1. Kf2!
+
+A:
+  1...Rf1+
+  2. Kxf1 N(any)
+  3. Rxa7++
+  END
+  
+B:
+  1...R(b-file)
+  2. d4
+    a: 
+      2...N(any)
+      3. Rxa7++
+      END
+    b:
+      2...Rxd4
+      3. b7++
+      END
+      
+    else:
+      2...(any)
+      3. b7++
+      END
+C:
+  1...R(1st rank - f1)
+  2. Rxa7+ Nxa7
+  3. b7++
+  END
+     
