@@ -1,0 +1,38 @@
+White, 1918
+1. Qe7!
+
+Q1: 
+  1...Qxe7
+  2. Bd4++
+  END
+ 
+Q2: 
+  1...Qe4
+  2. Rg3++
+  END
+  
+Q3: 
+  1...Qe5
+  2. Bg5++
+  END
+  
+B1:
+  1...B(any)
+  2. Qc5++
+  END
+  
+N1:
+  1...N(any)
+  2. Qc5++
+  END
+  
+P1:
+  1...d6
+  2. Qa7++
+  END
+  
+P2: 
+  1...d5
+  2.Qa3++
+  END
+  
