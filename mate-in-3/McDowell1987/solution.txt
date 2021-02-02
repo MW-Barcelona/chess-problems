@@ -1,0 +1,8 @@
+McDowell, 1987
+1. Ba8!!
+
+A:
+  1...bxa2
+  2. Rb7 Kxg2
+  3. Rb2++
+  END
