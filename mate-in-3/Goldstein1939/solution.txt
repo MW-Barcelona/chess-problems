@@ -8,7 +8,7 @@ A:
   END
   
 B:
-  1...R(b-file)
+  1...Rb4
   2. d4
     a: 
       2...N(any)
@@ -23,7 +23,12 @@ B:
       2...(any)
       3. b7++
       END
+      
 C:
+  1...Rb3
+  2. e3 goto B(a)
+  
+D:
   1...R(1st rank - f1)
   2. Rxa7+ Nxa7
   3. b7++
