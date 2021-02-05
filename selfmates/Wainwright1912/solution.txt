@@ -1,0 +1,18 @@
+Wainwright, 1912
+1. Rf4!
+
+A:
+  1... h1Q | h1R
+  2. Rh4+ Qxh4++ | Rxh4++
+  END
+
+B:
+  1... h1N
+  2. Rf2 Nxg3++ | Nxf2++
+  END
+  
+C:
+  1... h1B
+  2. Rg4 Bxg2++
+  END
+  
