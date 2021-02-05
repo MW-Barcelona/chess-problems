@@ -1,0 +1,33 @@
+Seider, 1975
+
+1. Nxg3!
+
+A:
+  1...Na7
+  2. Rxa7 Nxg3++
+  END
+  
+B:
+  1... Nxa3
+  2. Rxa3 Nxg3++
+  END
+  
+C:
+  1... Nc3
+  2. Nxc3 Nxg3++
+  END
+
+D:
+  1... Nxd4
+  2. Qe4 Nxg3++
+  END
+  
+E:
+  1... Nxd6
+  2. Qe7 Nxg3++
+  END
+  
+F:
+  1...Nc7
+  2. dxc7 Nxg3++
+  END
