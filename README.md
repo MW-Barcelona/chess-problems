@@ -3,3 +3,5 @@ This is a collection of the chess problems I've solved in my free time. Solution
 ### Problem types covered currently include:
 1. Direct mates
 2. Helpmates
+3. Selfmates
+4. Seriesmates

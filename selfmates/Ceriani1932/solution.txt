@@ -1,0 +1,22 @@
+Ceriani, 1932
+1. Be3!
+
+SET_1 = {a8, b7, c6, d5, b1, c2, d3, e7, e8, h7}
+SET_2 = {e6, f5}
+SET_3 = {e3, f4, e5, g4, g6}
+SET_4 = {a4, b4, c4, d4}
+
+A:
+  1...Q[i] for i in SET_1 U SET_4
+  2. Qe4+ Qxe4++
+  END
+
+B:
+  1...Q[i] for i in SET_2
+  2. Qh3+ Qxh3++
+  END
+
+C: 
+  1...Q[i] for i in SET_3
+  2. Qg3+ Qxg3++
+  END

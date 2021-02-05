@@ -1,0 +1,17 @@
+Szwedowski, 1971
+1. Qe6!
+
+A:
+  1... Nd5
+  2. Ne2+ Bxe2++
+  END
+
+B:  
+  1... Nc4
+  2. Rb3+ Bxb3++
+  END
+
+else:
+  1... any
+  2. Qb3+ Bxb3++
+  END
