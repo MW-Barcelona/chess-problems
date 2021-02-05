@@ -1,0 +1,21 @@
+Milovanovic and Sorokin, 1974 (Duplex, 2 solutions each)
+
+Black gets mated:
+A:
+  1. e1R Bc6
+  2. Rh1 Rg2++
+  END
+B:
+  1. Kh1! Kh3
+  2. e1B Bc6++
+  END
+
+White gets mated:
+A: 
+  1. Rg4! e1N
+  2. Bh5 Nf3++
+  END
+B: 
+  1. Rg3! e1Q
+  2. Bh5 Qxg3++
+  END 

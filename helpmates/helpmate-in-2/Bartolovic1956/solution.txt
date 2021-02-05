@@ -1,0 +1,21 @@
+Bartolovic, 1956 
+
+With Rook on h7:
+  1. Ke2! Re7+
+  2. Kd1 Re1++
+  END
+  
+With Knight on h7:
+  1. Kg4! Kg7
+  2. Kh5 Nf6++
+  END
+
+With Pawn on h7:
+  1. Ke4! h8Q
+  2. Kd5 Qe5++
+  END
+
+With Bishop on h7:
+  1. Kg2! Bf2
+  2. Kh1 Be4++
+  END
