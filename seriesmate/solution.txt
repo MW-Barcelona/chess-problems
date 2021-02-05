@@ -1,0 +1,17 @@
+Steudel, 1997
+Seriesmate in 13
+
+1. d4
+2. b4
+3. b5
+4. b6
+5. b7
+6. b8N
+7. Nd7
+8. Nf6
+9. d5
+10. d6
+11. d7
+12. d8N
+13. Nf7++
+END
