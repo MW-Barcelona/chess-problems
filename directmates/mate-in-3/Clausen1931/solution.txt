@@ -1,0 +1,38 @@
+Clausen, 1931
+1. Kf5!
+
+A:
+  1... Be5
+  2. h8Q+
+    a: 
+      2...Bxh8
+      3. f8Q++
+      END
+    b:
+      2...Bb8
+      3. Qh2++
+      END
+
+B:
+  1... Bd6
+  2. h8Q+   
+    a:
+      2... Bf8
+      3. Qxf8++
+      END
+    b: 
+      2... Bb8
+      3. Qh2++
+      END
+
+C:
+  1... Bc7
+  2. h8Q+ Bd8
+  3. Qxd8++
+  END
+
+else:
+  1... any
+  2. h8Q+ Bb8
+  3. Qh2++
+  END
